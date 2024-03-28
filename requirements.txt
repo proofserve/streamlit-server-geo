@@ -1,2 +1,6 @@
 streamlit
 pandas
+streamlit-keplergl
+keplergl
+google.oauth2
+google.cloud
